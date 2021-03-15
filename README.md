@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikiljos
+- 👋 Hi, I’m Nikhil Jose
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Nodejs
 <!--- - 💞️ I’m looking to collaborate on interesting projects. --->
