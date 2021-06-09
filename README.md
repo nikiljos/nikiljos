@@ -6,4 +6,4 @@
 
 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikiljos&layout=compact)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikiljos&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=nikiljos&layout=compact)
