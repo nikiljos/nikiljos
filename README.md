@@ -6,4 +6,4 @@
 
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikiljos)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikiljos)
