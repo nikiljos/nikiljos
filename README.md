@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Jose
 - 👀 I’m interested in Backend Development
-- 💻 I’m currently a Developer Intern at [Campuzon](https://campuzon.ml)
+- 💻 I’m currently a Developer Intern at [Campuzon](https://campuzon.com)
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Check out more about me on [my Personal Site](https://nikjos.in)
  
