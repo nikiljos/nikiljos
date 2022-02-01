@@ -2,9 +2,9 @@
 - 👀 I’m interested in Backend Development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Check out more about me on [my Personal Site](https://nikjos.in)
->I’m currently a a Backend Developer at [Camupzon](https://campuzon.com)
+>I’m currently a Backend Developer at [Camupzon](https://campuzon.com)
 >
-> Also Developer Intern at [Mulearn](https://mulearn.org/)  
+> Also a Developer Intern at [Mulearn](https://mulearn.org/)  
 <table>
 <tr>
  <td>
