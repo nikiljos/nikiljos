@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Nikhil Jose
-- 👀 I’m interested in Backend Development
+- 👀 I’m crazy about Backend Development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Check out more about me on [my Personal Site](https://nikjos.in)
->I’m currently a Backend Developer at [Camupzon](https://campuzon.com)
+
+>B.Tech CSE, Software Product Engineering Student at [Kalvium](https://kalvium.com/) x [LPU](https://www.lpu.in/hons/kalvi.php)
 >
-> Also a Developer Intern at [Mulearn](https://mulearn.org/)  
+> Backend Developer at [Mulearn](https://mulearn.org/)  
 <table>
 <tr>
  <td>
