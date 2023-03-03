@@ -5,7 +5,7 @@
 
 >B.Tech CSE, Software Product Engineering Student at [Kalvium](https://kalvium.com/) x [LPU](https://www.lpu.in/hons/kalvi.php)
 >
-> Backend Developer at [Mulearn](https://mulearn.org/)  
+> Backend Developer Intern at [TGH Tech](https://tghtech.com)  
 <table>
 <tr>
  <td>
