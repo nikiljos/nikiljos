@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Nikhil Jose
 - 👀 I’m a Backend Developer
-- 👷‍♂️ Built [OpenBadgX](https://github.com/kalviumcommunity/openbadgx)
+- 👷‍♂️ Built [OpenBadgX](https://github.com/nikiljos/openbadgx)
 - 📫 Check out more about me on [my Personal Site](https://nikjos.in)
 
->Software Engineer Intern @ [Raksul India](https://www.linkedin.com/company/raksul-india/)
+> Software Engineer Intern @ [Josys](https://josys.com/)
 >
->B.Tech CSE, Software Product Engineering Student @ [Kalvium](https://kalvium.com/) x [LPU](https://www.lpu.in/hons/kalvi.php)
+> B.Tech CSE, Software Product Engineering Student @ [Kalvium](https://kalvium.com/) x [LPU](https://www.lpu.in/hons/kalvi.php)
 <!-- 
 <table >
 <tr>
